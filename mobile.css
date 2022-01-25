@@ -1,0 +1,10 @@
+.boxRight{
+    display: none;
+}
+
+.boxLeft{
+    width: 100%;
+}
+.container{
+    width: 500px;
+}
